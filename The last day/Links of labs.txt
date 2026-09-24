@@ -1,0 +1,24 @@
+https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter
+
+
+https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-unpredictable-user-ids
+
+
+
+https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-data-leakage-in-redirect
+
+
+https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter-with-password-disclosure
+
+
+https://portswigger.net/web-security/access-control/lab-insecure-direct-object-references
+
+
+
+
+vertical privilege escalation
+horizontal privilege escalation
+horizontal to vertical privilege escalation
+
+
+
